@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EQN</string>
+    <string name="special_attention_channel">Special Attention</string>
+    <string name="general_channel">General Notification</string>
+    <string name="special_attention_channel_description">Special attention notification. This is a notification channel of special attention, and notifications that are set to be special attention can set different behaviors and priorities here.</string>
+    <string name="general_channel_description">Manage general notification behavior and priorities.</string>
+    <string name="group_channel">Group chat notification</string>
+    <string name="group_channel_description">Group chat notification. This is a group chat notification channel. Group chat notifications can set different behaviors and priorities here.</string>
+</resources>

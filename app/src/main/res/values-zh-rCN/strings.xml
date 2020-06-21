@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EQN</string>
+    <string name="special_attention_channel">特别关心</string>
+    <string name="general_channel">普通通知</string>
+    <string name="special_attention_channel_description">特别关心通知。这是特别关心通知频道，被设置了特别关心的通知可以在这里设置不同的行为和优先级。</string>
+    <string name="general_channel_description">普通通知。在这里管理普通通知的行为和优先级。</string>
+    <string name="group_channel">群聊通知</string>
+    <string name="group_channel_description">群聊通知。这是群聊通知频道，群聊通知可以在这里设置不同的行为和优先级。</string>
+</resources>
